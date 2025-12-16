@@ -11,3 +11,7 @@ Fuchsia
 Gray
 Brown
 Red
+Blue
+Pink
+Magenta
+
